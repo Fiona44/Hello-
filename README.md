@@ -1,3 +1,3 @@
 # Hello-
 practice
-Folloeing the github guide.
+Following the github guide.
